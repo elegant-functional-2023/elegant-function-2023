@@ -33,21 +33,42 @@
 - 벌금은 모아서 회식에 쓰기로 한다
 - 총무: [@bigsaigon333](https://github.com/bigsaigon333)
 
+### 1주차
+- 김주현: 10,000원
+
+
+### 합계
+- 10,000원 (1주차 기준)
+
 
 ## 장소
 선릉 오피스. (장소가 좁으면 다시 논의해보기로 한다)
 
 
+## 호스트 / 부호스트
+
+### 1주차
+- 1장: 승희 / 진아
+- 2장: 선희 / 현철
+- 3장: 지수 / 한결
+- 4장: 동희 / 주현
+
+### 2주차
+- 5장: 선희 / 한결
+- 6장: 민경 / 진아
+- 7장: 승희 / 주현
+
+
 ## 출석표
 | 이름   | github id      | 0주차 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
 | ------ | -------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 박선희 | [@sunhpark42](https://github.com/sunhpark42)    |   v   |       |       |       |       |       |       |       |       |
-| 강민경 | [@ddongule](https://github.com/ddongule)      |   v   |       |       |       |       |       |       |       |       |
-| 안현철 | [@iborymagic](https://github.com/iborymagic)    |   v   |       |       |       |       |       |       |       |       |
-| 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)    |   v   |       |       |       |       |       |       |       |       |
-| 조승희 | [@sa02045](https://github.com/sa02045)       |   v   |       |       |       |       |       |       |       |       |
-| 박진아 | [@dev-hamster](https://github.com/dev-hamster)   |   v   |       |       |       |       |       |       |       |       |
-| 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116) |   v   |       |       |       |       |       |       |       |       |
-| 이한결 | [@hanana1253](https://github.com/hanana1253)    |   v   |       |       |       |       |       |       |       |       |
-| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)  |       |       |       |       |       |       |       |       |       |
-| 김동희 | [@bigsaigon333](https://github.com/bigsaigon333)  |   v   |       |       |       |       |       |       |       |       |
+| 박선희 | [@sunhpark42](https://github.com/sunhpark42)    |   v   |   v   |       |       |       |       |       |       |       |
+| 강민경 | [@ddongule](https://github.com/ddongule)      |   v   |   v   |       |       |       |       |       |       |       |
+| 안현철 | [@iborymagic](https://github.com/iborymagic)    |   v   |   v   |       |       |       |       |       |       |       |
+| 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)    |   v   |   v   |       |       |       |       |       |       |       |
+| 조승희 | [@sa02045](https://github.com/sa02045)       |   v   |   v   |       |       |       |       |       |       |       |
+| 박진아 | [@dev-hamster](https://github.com/dev-hamster)   |   v   |   v   |       |       |       |       |       |       |       |
+| 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116) |   v   |   v   |       |       |       |       |       |       |       |
+| 이한결 | [@hanana1253](https://github.com/hanana1253)    |   v   |   v   |       |       |       |       |       |       |       |
+| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)  |  결석  |  지각  |       |       |       |       |       |       |       |
+| 김동희 | [@bigsaigon333](https://github.com/bigsaigon333)  |   v   |   v   |       |       |       |       |       |       |       |
