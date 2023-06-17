@@ -61,6 +61,10 @@ N/A
 - 6장: 민경 / 진아
 - 7장: 승희 / 주현
 
+### 3주차
+- 8장: 선희 / 승희
+- 9장: 지수 / 현철
+
 
 ## 출석표
 | 이름   | github id      | 0주차 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
@@ -70,8 +74,8 @@ N/A
 | 안현철 | [@iborymagic](https://github.com/iborymagic)    |   v   |   v   |   v   |       |       |       |       |       |       |
 | 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)    |   v   |   v   |   v   |       |       |       |       |       |       |
 | 조승희 | [@sa02045](https://github.com/sa02045)       |   v   |   v   |   v   |       |       |       |       |       |       |
-| 박진아 | [@dev-hamster](https://github.com/dev-hamster)   |   v   |   v   |   v   |       |       |       |       |       |       |
+| 박진아 | [@dev-hamster](https://github.com/dev-hamster)   |   v   |   v   |   v   |   -   |       |       |       |       |       |
 | 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116) |   v   |   v   |   v   |       |       |       |       |       |       |
 | 이한결 | [@hanana1253](https://github.com/hanana1253)    |   v   |   v   |   v   |       |       |       |       |       |       |
-| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)  |  결석  |  지각  |   v   |       |       |       |       |       |       |
+| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)  |  결석  |  지각  |   v   |   -   |       |       |       |       |       |
 | 김동희 | [@bigsaigon333](https://github.com/bigsaigon333)  |   v   |   v   |   v   |       |       |       |       |       |       |
