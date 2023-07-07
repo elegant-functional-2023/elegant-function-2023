@@ -1,0 +1,1 @@
+- [Chapter 10, 11 요약](https://github.com/hanana1253/TIL/blob/main/GrokkingSimplicity/20230708.md)
