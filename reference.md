@@ -41,6 +41,7 @@
 - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Server Driven UI 설계를 통한 UI 유연화](https://devblog.kakaostyle.com/ko/2021-12-16-1-server-driven-ui)
 - [Represent data with generic data structures](https://blog.klipse.tech/databook/2022/06/22/generic-data-structures.html)
+- [함수 선언문으로의 회귀](https://velog.io/@sa02045/%ED%95%A8%EC%88%98-%EC%84%A0%EC%96%B8%EC%8B%9D%EC%9C%BC%EB%A1%9C%EC%9D%98-%ED%9A%8C%EA%B7%80)
 
 ### Etc
 
