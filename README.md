@@ -57,9 +57,10 @@ N/A
 ### 8주차
 - 강민경: 5,000원
 - 안현철: 10,000원
+- 조승희: 5,000원
 
 ### 합계
-- 30,000원 (8주차 기준)
+- 35,000원 (8주차 기준)
 
 
 ## 장소
@@ -111,7 +112,7 @@ N/A
 | 강민경 | [@ddongule](https://github.com/ddongule)      |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |    지각    |
 | 안현철 | [@iborymagic](https://github.com/iborymagic)    |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   지각     |
 | 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)    |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |
-| 조승희 | [@sa02045](https://github.com/sa02045)       |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |
+| 조승희 | [@sa02045](https://github.com/sa02045)       |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   지각   |
 | 박진아 | [@dev-hamster](https://github.com/dev-hamster)   |   v   |   v   |   v   |   -   |   v   |   v   |   v   |   v   |   v   |
 | 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116) |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |
 | 이한결 | [@hanana1253](https://github.com/hanana1253)    |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |    v  |
