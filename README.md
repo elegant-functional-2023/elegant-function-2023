@@ -48,8 +48,18 @@ N/A
 ### 5주차
 N/A
 
+### 6주차
+- 박선희: 5,000원
+
+### 7주차
+N/A
+
+### 8주차
+- 강민경: 5,000원
+- 안현철: 10,000원
+
 ### 합계
-- 10,000원 (5주차 기준)
+- 30,000원 (8주차 기준)
 
 
 ## 장소
@@ -81,16 +91,29 @@ N/A
 - 11장: 승희 / 주현
 - 12장: 선희 / 진아
 
+### 6주차
+- 13장: 한결 / 승희
+- 14장: 주현 / 진아
+
+### 7주차
+- 15장: 한결 / 선희
+- 16장: 승희 / 동희
+
+### 8주차 
+- 17장: 동희 / 진아
+- 18장: 진아 / 현철
+- 19장: 서림 
+
 ## 출석표
 | 이름   | github id      | 0주차 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
 | ------ | -------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 박선희 | [@sunhpark42](https://github.com/sunhpark42)    |   v   |   v   |   v   |   v   |   v   |   v   |       |       |       |
-| 강민경 | [@ddongule](https://github.com/ddongule)      |   v   |   v   |   v   |   v   |   v   |   v   |       |       |       |
-| 안현철 | [@iborymagic](https://github.com/iborymagic)    |   v   |   v   |   v   |   v   |   v   |   v   |       |       |       |
-| 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)    |   v   |   v   |   v   |   v   |   v   |   v   |       |       |       |
-| 조승희 | [@sa02045](https://github.com/sa02045)       |   v   |   v   |   v   |   v   |   v   |   v   |       |       |       |
-| 박진아 | [@dev-hamster](https://github.com/dev-hamster)   |   v   |   v   |   v   |   -   |   v   |   v   |       |       |       |
-| 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116) |   v   |   v   |   v   |   v   |   v   |   v   |       |       |       |
-| 이한결 | [@hanana1253](https://github.com/hanana1253)    |   v   |   v   |   v   |   v   |   v   |   v   |       |       |       |
-| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)  |  결석  |  지각  |   v   |   -   |   -   |   v   |       |       |       |
-| 김동희 | [@bigsaigon333](https://github.com/bigsaigon333)  |   v   |   v   |   v   |   v   |   -   |   v   |       |       |       |
+| 박선희 | [@sunhpark42](https://github.com/sunhpark42)    |   v   |   v   |   v   |   v   |   v   |   v   |   지각   |   v   |   v   |
+| 강민경 | [@ddongule](https://github.com/ddongule)      |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |    지각    |
+| 안현철 | [@iborymagic](https://github.com/iborymagic)    |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   지각     |
+| 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)    |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |
+| 조승희 | [@sa02045](https://github.com/sa02045)       |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |
+| 박진아 | [@dev-hamster](https://github.com/dev-hamster)   |   v   |   v   |   v   |   -   |   v   |   v   |   v   |   v   |   v   |
+| 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116) |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |
+| 이한결 | [@hanana1253](https://github.com/hanana1253)    |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |    v  |
+| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)  |  결석  |  지각  |   v   |   -   |   -   |   v   |   v   |   v   |   v   |
+| 김동희 | [@bigsaigon333](https://github.com/bigsaigon333)  |   v   |   v   |   v   |   v   |   -   |   v   |   -   |   v   |   v   |
