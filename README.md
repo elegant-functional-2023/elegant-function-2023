@@ -58,9 +58,10 @@ N/A
 - 강민경: 5,000원
 - 안현철: 10,000원
 - 조승희: 5,000원
+- 박선희: 5,000원
 
 ### 합계
-- 35,000원 (8주차 기준)
+- 40,000원 (8주차 기준)
 
 
 ## 장소
@@ -108,7 +109,7 @@ N/A
 ## 출석표
 | 이름   | github id      | 0주차 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
 | ------ | -------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 박선희 | [@sunhpark42](https://github.com/sunhpark42)    |   v   |   v   |   v   |   v   |   v   |   v   |   지각   |   v   |   v   |
+| 박선희 | [@sunhpark42](https://github.com/sunhpark42)    |   v   |   v   |   v   |   v   |   v   |   v   |   지각   |   v   |   지각   |
 | 강민경 | [@ddongule](https://github.com/ddongule)      |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |    지각    |
 | 안현철 | [@iborymagic](https://github.com/iborymagic)    |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   지각     |
 | 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)    |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |   v   |
