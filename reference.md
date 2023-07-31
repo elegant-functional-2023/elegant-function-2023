@@ -23,6 +23,13 @@
 
 - [Redux docs - What are the benefits of immutability?](https://redux.js.org/faq/immutable-data#what-are-the-benefits-of-immutability)
 - [MDN Web Docs - structuredClone() global function](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
+- [Wikipedia - Race condition](https://en.wikipedia.org/wiki/Race_condition)
+- [Wikipedia - Idempotence](https://en.wikipedia.org/wiki/Idempotence)
+- [Wikipedia - Imperative programming](https://en.wikipedia.org/wiki/Imperative_programming)
+- [Wikipedia - Side effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
+- [Wikipedia - Inversion of control](https://en.wikipedia.org/wiki/Inversion_of_control)
+- [React Docs - Scheduling](https://legacy.reactjs.org/docs/design-principles.html#scheduling)
+- [Vue Docs - 반응형이란?](https://ko.vuejs.org/guide/extras/reactivity-in-depth.html#what-is-reactivity)
 
 ### Blogs
 
@@ -42,7 +49,14 @@
 - [Server Driven UI 설계를 통한 UI 유연화](https://devblog.kakaostyle.com/ko/2021-12-16-1-server-driven-ui)
 - [Represent data with generic data structures](https://blog.klipse.tech/databook/2022/06/22/generic-data-structures.html)
 - [함수 선언문으로의 회귀](https://velog.io/@sa02045/%ED%95%A8%EC%88%98-%EC%84%A0%EC%96%B8%EC%8B%9D%EC%9C%BC%EB%A1%9C%EC%9D%98-%ED%9A%8C%EA%B7%80)
+- [원자적 업데이트](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
+- [How React isn't reactive, and why you shouldn't care](https://dev.to/this-is-learning/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m)
+- [프론트엔드에서의 Inversion of Control](https://tecoble.techcourse.co.kr/post/2021-05-14-inversion-of-control/)
+- [Inversion of Control](https://kentcdodds.com/blog/inversion-of-control)
+- [함수형 프로그래밍을 위한 람다 대수 입문 번역](https://studyingeugene.github.io/functional-programming/introduction-to-lambda-calculus/)
+- [프로그래밍 패러다임과 반응형 프로그래밍 그리고 Rx](https://yozm.wishket.com/magazine/detail/1334/)
 
 ### Etc
 
-- [npm - dependency-cruiser](https://www.npmjs.com/package/dependency-cruiser)
+- [npm) dependency-cruiser](https://www.npmjs.com/package/dependency-cruiser)
+- [youtube) Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
